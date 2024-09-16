@@ -1,0 +1,13 @@
+# Node.js modules
+node_modules/
+
+# Next.js build files
+poker-frontend/.next/
+
+# Strapi build files
+poker-backend/.cache/
+poker-backend/build/
+
+# Environment variables
+poker-backend/.env
+poker-frontend/.env
